@@ -15,6 +15,8 @@ Add your favorite snacks to the cart, manage cart items, view the total price, a
 - Display cart item count
 - View individual cart items
 - Calculate the total cart price
+- Automatically recalculate the total price when quantities change
+- Keep cart count synchronized with quantity updates
 - Remove items from the cart
 - Dynamic cart updates
 - Simple checkout flow
